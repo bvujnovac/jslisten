@@ -52,8 +52,8 @@
 
 #define NAME_LENGTH 128
 #define MYPROGNAME "jslisten"
-#define myConfFile "/storage/.jslisten"
-#define myGlConfFile "/etc/jslisten.cfg"
+#define myConfFile "/storage/jslisten.cfg"
+#define myGlConfFile "/storage/jslisten.cfg"
 //#define MY_LOG_LEVEL LOG_NOTICE //LOG_DEBUG //LOG_NOTICE
 
 #define INI_BUFFERSIZE      512
