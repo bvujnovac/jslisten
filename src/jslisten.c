@@ -52,7 +52,7 @@
 
 #define NAME_LENGTH 128
 #define MYPROGNAME "jslisten"
-#define myConfFile "/.jslisten"
+#define myConfFile "/storage/.jslisten"
 #define myGlConfFile "/etc/jslisten.cfg"
 //#define MY_LOG_LEVEL LOG_NOTICE //LOG_DEBUG //LOG_NOTICE
 
